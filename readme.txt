@@ -1,6 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Added for test in 2018 03 13
-If you didn't see the .git direction,for it is invisiable ,by useing "ls -ah" to see it.
-GIT can merge to commit.
-changge the 6 line.
+思路：由于双端队列可以从对头或者对尾出队，因此A、B交替取数时便是求每一次MAX（对头i，队尾j）的值。
